@@ -21,3 +21,20 @@ https://chatgpt.com (laatste optie)
 https://youtube.com
 sitepoint.com
 https://css-tricks.com/forums/
+https://www.w3schools.com/
+
+Vandaag (5-9-2024) geleerd over javascript. Veel hiervan was al bekend van vorig jaar. Maar even opfrissen was wel handig.
+Ook snap ik nu dat je 2 stukken content kan scheiden door:
+.left-content {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.right-content {
+    flex: 2;
+    padding-left: 20px;
+}
+
+Wat maakt Javascript verschillend van HTML en CSS?
+Wat van mijn HTML en CSS kennis kan ik hergebruiken binnen JavaScript?
+Wat ga ik verder vandaag nog doen met JavaScript?
