@@ -38,3 +38,8 @@ Ook snap ik nu dat je 2 stukken content kan scheiden door:
 Wat maakt Javascript verschillend van HTML en CSS?
 Wat van mijn HTML en CSS kennis kan ik hergebruiken binnen JavaScript?
 Wat ga ik verder vandaag nog doen met JavaScript?
+
+10-9-2024
+3 dingen die ik geleerd heb: 
+2 dingen die ik interessant vond:
+1 ding waar ik meer over wil weten:
