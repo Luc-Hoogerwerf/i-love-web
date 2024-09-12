@@ -43,3 +43,14 @@ Wat ga ik verder vandaag nog doen met JavaScript?
 3 dingen die ik geleerd heb: 
 2 dingen die ik interessant vond:
 1 ding waar ik meer over wil weten:
+
+
+11-9-2024
+Wat heb ik vandaag gedaan, en wat ga ik nog doen?
+Kleurthema en Fonts voor de pagina gevonden. Layout voor verschillende groottes van schermen gefixt. 
+Ik ga alle plaatjes nog toevoegen en een kleurhema vinden voor darkmode
+
+3 studievragen:
+1- Hoe wordt geel niet lelijk in een ontwerp
+2- Hoe gebruik je soortgelijke kleuren voor light- en dark mode
+3- Welke eigenschappen heeft een goed logo nodig? (tip geen calimero)
