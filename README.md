@@ -54,3 +54,13 @@ Ik ga alle plaatjes nog toevoegen en een kleurhema vinden voor darkmode
 1- Hoe wordt geel niet lelijk in een ontwerp
 2- Hoe gebruik je soortgelijke kleuren voor light- en dark mode
 3- Welke eigenschappen heeft een goed logo nodig? (tip geen calimero)
+
+16-9-2024
+3 dingen die ik geleerd heb:
+1- geheugen opgefrist hoe figma werkt (vooral met elementen op voor en achtergrond)
+2- Bij retrospect letten op het schrijven van issues bij anderen en meer linken in de tekst naar bewijslast.
+3- Voor visuele hierarchie letten op:
+Kleur/contrast
+grootte
+Witruimte
+animatie
