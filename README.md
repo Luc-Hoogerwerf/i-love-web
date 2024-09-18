@@ -69,3 +69,9 @@ animatie
 17-9-2024
 Transition opgefrist en geleerd dat 	filter: bestaat en wat het doet in 
 https://codepen.io/Luchoogerwerf/pen/RwzzGaj?editors=1100
+
+18-9-2024
+vandaag heb ik de foto's en beschrijvingen van de pagina gefixt.
+ik heb de volgende dingen geleerd:
+De JPG files van teams zijn veel te groot. Dus omzetten naar webp is beter.
+Pop-ups zijn erg vervelend als je aanpassingen blijft maken.
