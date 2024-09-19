@@ -75,3 +75,7 @@ vandaag heb ik de foto's en beschrijvingen van de pagina gefixt.
 ik heb de volgende dingen geleerd:
 De JPG files van teams zijn veel te groot. Dus omzetten naar webp is beter.
 Pop-ups zijn erg vervelend als je aanpassingen blijft maken.
+
+19-9-2024
+Ik snap nu hoe je muziek op hover gebruikt. Ook snap ik nu hoe slecht 32 bit klinkt.
+https://github.com/MarsGotBars/Geef-een-tien-ofzo/blob/5b0a88397f8899b92458a7e3b4b61d8517d4c2d2/scripts/m-script.js#L39-L93
