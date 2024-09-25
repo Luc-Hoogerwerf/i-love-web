@@ -79,3 +79,12 @@ Pop-ups zijn erg vervelend als je aanpassingen blijft maken.
 19-9-2024
 Ik snap nu hoe je muziek op hover gebruikt. Ook snap ik nu hoe slecht 32 bit klinkt.
 https://github.com/MarsGotBars/Geef-een-tien-ofzo/blob/5b0a88397f8899b92458a7e3b4b61d8517d4c2d2/scripts/m-script.js#L39-L93
+
+
+25-9-2024
+Ik heb geleerd dat ik wat meer pro actief moet handelen. Omdat ik er maandag niet was en geen berict heb gestuurd, moest ik veel informatie inhalen over de opdracht. 
+Dat is nu nog geen probleem maar ik zie wel hoe dat op andere momenten tot veel problemen kan leiden
+Ook snap ik nu meer van breakdownschetsen. Met name welke informatie wel belangrijk is. Maar vooral ook welke informatie niet.
+Daarnaast begin ik de stappen te begrijpen om een hamburger menu te maken. Daar ga ik later mee verder.
+Vandaag heb ik een begin gemaakt aan de header van de pagina. 
+Vanmiddag hoop ik deze af te maken
