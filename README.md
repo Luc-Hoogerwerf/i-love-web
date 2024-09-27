@@ -88,3 +88,10 @@ Ook snap ik nu meer van breakdownschetsen. Met name welke informatie wel belangr
 Daarnaast begin ik de stappen te begrijpen om een hamburger menu te maken. Daar ga ik later mee verder.
 Vandaag heb ik een begin gemaakt aan de header van de pagina. 
 Vanmiddag hoop ik deze af te maken
+
+27-9-2024
+Ik heb feedback gegeven en gekregen: https://github.com/Brancovanbeek/the-client-website/issues/5 
+https://github.com/DeBosOs/the-client-website/issues
+
+Ik heb geleerd hoe ik feedback geef. maar vooral ook hoe ik er zelf goed mee aan de slag kan. Bijvoorbeeld kijken wat ik meteen op kan lossen of wat meer tijd kost. en dat wat meer tijd kost voor later plannen.
+Ik heb geleerd hoe ik een inputveld beter kan maken (moet ik nog mee aan de slag gaan)
