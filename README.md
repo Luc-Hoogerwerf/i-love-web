@@ -98,3 +98,4 @@ Ik heb geleerd hoe ik een inputveld beter kan maken (moet ik nog mee aan de slag
 
 30-9-2024
 Ik heb vandaag door het maken van de opdracht eindelijk door hoe grid werkt en voornamelijk hoe het positioneren van de elementen in een grid werkt. Handig om te onthouden is bij chrome inspecteren en klikken op grid. Dan zie je precies de layout.
+Daarnaast ben ik er ook achter gekomen dat voor de opdracht "multi-column-layout" het meest handig is. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_multicol_layout
