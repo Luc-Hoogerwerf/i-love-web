@@ -95,3 +95,6 @@ https://github.com/DeBosOs/the-client-website/issues
 
 Ik heb geleerd hoe ik feedback geef. maar vooral ook hoe ik er zelf goed mee aan de slag kan. Bijvoorbeeld kijken wat ik meteen op kan lossen of wat meer tijd kost. en dat wat meer tijd kost voor later plannen.
 Ik heb geleerd hoe ik een inputveld beter kan maken (moet ik nog mee aan de slag gaan)
+
+30-9-2024
+Ik heb vandaag door het maken van de opdracht eindelijk door hoe grid werkt en voornamelijk hoe het positioneren van de elementen in een grid werkt. Handig om te onthouden is bij chrome inspecteren en klikken op grid. Dan zie je precies de layout.
