@@ -99,3 +99,7 @@ Ik heb geleerd hoe ik een inputveld beter kan maken (moet ik nog mee aan de slag
 30-9-2024
 Ik heb vandaag door het maken van de opdracht eindelijk door hoe grid werkt en voornamelijk hoe het positioneren van de elementen in een grid werkt. Handig om te onthouden is bij chrome inspecteren en klikken op grid. Dan zie je precies de layout.
 Daarnaast ben ik er ook achter gekomen dat voor de opdracht "multi-column-layout" het meest handig is. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_multicol_layout
+
+2-10-2024
+Ik heb vandaag geleerd dat leestext niet kleiner moet dan 16 pixels, de regellengte 10-12 woorden per regel en een regelafstand van 1.4
+Ik heb vandaag verder gewerkt aan mijn css. De inputbar moet in het midden en groter worden. Dat wilt maar niet lukken. Als ik de width of height aan pas, veranderd de positie ipv de grootte.
