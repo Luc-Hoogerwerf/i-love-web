@@ -103,3 +103,15 @@ Daarnaast ben ik er ook achter gekomen dat voor de opdracht "multi-column-layout
 2-10-2024
 Ik heb vandaag geleerd dat leestext niet kleiner moet dan 16 pixels, de regellengte 10-12 woorden per regel en een regelafstand van 1.4
 Ik heb vandaag verder gewerkt aan mijn css. De inputbar moet in het midden en groter worden. Dat wilt maar niet lukken. Als ik de width of height aan pas, veranderd de positie ipv de grootte.
+
+7-10-2024
+Ik heb vandaag 3 code conventions geleerd:
+1- css selectors in de zelfde volgorde als html
+2- html elementen ademruimte geven
+3- Mediaquery's nesten
+
+leesbaarheid html kan je verbeteren met:
+1- Juiste volgorde werken met html elementen
+2- genoeg witruimte tussen regels laten
+
+Vanaf nu ga ik de mediaquery's nesten
