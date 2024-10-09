@@ -115,3 +115,7 @@ leesbaarheid html kan je verbeteren met:
 2- genoeg witruimte tussen regels laten
 
 Vanaf nu ga ik de mediaquery's nesten
+
+9-10-2024
+Vandaag heb ik verder gewerkt aan mijn pagina. Ik snap nu dat het voor de <header> het meest handig is om position: sticky te gebruiken
+Ik probeer uit te zoeken hoe ik mijn images in de multi-column-layout krijg. Ik snap nu wel hoe column-count het aantal colommen bepaald en column-span aan geeft over hoeveel colommen de content moet gaan.
