@@ -119,3 +119,8 @@ Vanaf nu ga ik de mediaquery's nesten
 9-10-2024
 Vandaag heb ik verder gewerkt aan mijn pagina. Ik snap nu dat het voor de <header> het meest handig is om position: sticky te gebruiken
 Ik probeer uit te zoeken hoe ik mijn images in de multi-column-layout krijg. Ik snap nu wel hoe column-count het aantal colommen bepaald en column-span aan geeft over hoeveel colommen de content moet gaan.
+
+14-10-2024
+Vandaag heb ik de multi column layout afgemaakt. Alle plaatjes passen nu in colommen zonder witruimte (dankzij display block). Alleen moet ik nog kijken hoe je horizontale scroll toe kan voegen.
+Ook heb ik geleerd over github projects. Dit kan ik in de toekomst handig gebruiken om bij te houden wat er nog moet gebeuren voor de website
+Voor de WCAG audit van woensdag moet ik nog de handmatige tests doen 
