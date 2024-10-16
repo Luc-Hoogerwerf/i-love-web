@@ -124,3 +124,9 @@ Ik probeer uit te zoeken hoe ik mijn images in de multi-column-layout krijg. Ik 
 Vandaag heb ik de multi column layout afgemaakt. Alle plaatjes passen nu in colommen zonder witruimte (dankzij display block). Alleen moet ik nog kijken hoe je horizontale scroll toe kan voegen.
 Ook heb ik geleerd over github projects. Dit kan ik in de toekomst handig gebruiken om bij te houden wat er nog moet gebeuren voor de website
 Voor de WCAG audit van woensdag moet ik nog de handmatige tests doen 
+
+16-10-2024
+Multi culumn layout was van korte duur. PLaatjes los gezet in main met infinite scroll in JS. Witruimtes gaan weg door de plaatjes verticaal uit te lijnen ipv horizontaal.
+ik heb geleerd dat er meerdere manieren zijn om een link te gebuiken (shift, cntrl, cmmd, option enzov.)
+Ik heb geleer dat index++ gelijk is aan index = index + 1
+Ik snap nu wat <legend> en <summary> doen
