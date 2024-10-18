@@ -130,3 +130,13 @@ Multi culumn layout was van korte duur. PLaatjes los gezet in main met infinite 
 ik heb geleerd dat er meerdere manieren zijn om een link te gebuiken (shift, cntrl, cmmd, option enzov.)
 Ik heb geleer dat index++ gelijk is aan index = index + 1
 Ik snap nu wat <legend> en <summary> doen
+
+18-10-2024
+Vandaag heb ik feedback gegeven op de sites en code (met name html) van andere mensen
+uitbreiding checklist: 
+-kleur contrast
+-met tab site testen
+-screen reader test
+-language attribute in de juiste taal
+-aria-roles checken
+-list-items in ul of ol zetten.
