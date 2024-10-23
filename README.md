@@ -140,3 +140,11 @@ uitbreiding checklist:
 -language attribute in de juiste taal
 -aria-roles checken
 -list-items in ul of ol zetten.
+
+23-10-2024
+3 dingen die ik vandaag heb gedaan:
+Ik heb zonder keyboard door verschillende sites genavigeerd om te kijken hoe dat werkt.
+Ik heb verder gewerkt aan mijn website. Ik denk dat ik het canvas in een list zet in de main. Hier voeg ik dan met JS plaatjes aan toe.
+Ik heb samen met het groepje vragen en een plan bedacht voor de sprint review van morgen
+
+Bij de komende sprint review anders aan ga pakken is meer specifieke feedback vragen. "Het ziet er goed uit" hebben beide partijen niks aan.
