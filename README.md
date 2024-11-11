@@ -148,3 +148,8 @@ Ik heb verder gewerkt aan mijn website. Ik denk dat ik het canvas in een list ze
 Ik heb samen met het groepje vragen en een plan bedacht voor de sprint review van morgen
 
 Bij de komende sprint review anders aan ga pakken is meer specifieke feedback vragen. "Het ziet er goed uit" hebben beide partijen niks aan.
+
+11-11-2024
+Vandaag heb ik goed gekeken naar de huisstijl van qatar museums https://qm.org.qa/en/
+Ook heb ik mijn repo klaar gezet https://github.com/DeBosOs/look-and-feel-corporate-identity
+De huisstyle valt te herkennen aan hoe de uitingen er uit zien. Afspraken houden we bij in teams, miro en figma
