@@ -143,7 +143,7 @@ uitbreiding checklist:
 
 23-10-2024
 3 dingen die ik vandaag heb gedaan:
-Ik heb zonder keyboard door verschillende sites genavigeerd om te kijken hoe dat werkt.
+Ik heb zonder muis door verschillende sites genavigeerd om te kijken hoe dat werkt.
 Ik heb verder gewerkt aan mijn website. Ik denk dat ik het canvas in een list zet in de main. Hier voeg ik dan met JS plaatjes aan toe.
 Ik heb samen met het groepje vragen en een plan bedacht voor de sprint review van morgen
 
@@ -165,3 +165,6 @@ Alleen met vH wil ik nog meer werken zodat ik ook dit meer ga begrijpen.
 
 Ik ga uitzoeken hoe vh in elkaar zit en ik ga de opdracht van vandaag maken zodra ik thuis kom
 
+20-11-2024
+Vandaag heb ik geleerd over <input> en hoe deze werken met verschillende types (21 verschillende) zoals text, tel, url, range en nog veel meer. Een foto van een lijst met voorbeelden staat in deze repository. Hier is ook een link: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input.
+- Ik ga voor deze leertaak de forms gebruiken van hierboven. Voornamelijk text, tel, en mail zullen belangrijk zijn
