@@ -168,3 +168,13 @@ Ik ga uitzoeken hoe vh in elkaar zit en ik ga de opdracht van vandaag maken zodr
 20-11-2024
 Vandaag heb ik geleerd over <input> en hoe deze werken met verschillende types (21 verschillende) zoals text, tel, url, range en nog veel meer. Een foto van een lijst met voorbeelden staat in deze repository. Hier is ook een link: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input.
 - Ik ga voor deze leertaak de forms gebruiken van hierboven. Voornamelijk text, tel, en mail zullen belangrijk zijn
+
+25-11-2024
+De gestaltwetten die ik vandaag onderzocht heb:
+- law of common fate. Elementen met de zelfde vorm, kleur of achtergrond worden gezien als groep
+- law of similarity. Elementen met de zelfde kleur vorm, grootte of orientatie worden gezien als groep
+- law of proximity. Elementen die dicht op elkaar staan worden gezien als groep
+
+ik wil nog leren hoe je common fate en similarity uit elkaar kan halen
+Ik wil nog leren wanneer je welke gestaltwet moet gebruiken. bijvoorbeeld wanneer moet het groter en wanneer een andere achtergrondkleur
+Ole je hebt mooie schoenen aan (moest een compliment geven)
