@@ -178,3 +178,7 @@ De gestaltwetten die ik vandaag onderzocht heb:
 ik wil nog leren hoe je common fate en similarity uit elkaar kan halen
 Ik wil nog leren wanneer je welke gestaltwet moet gebruiken. bijvoorbeeld wanneer moet het groter en wanneer een andere achtergrondkleur
 Ole je hebt mooie schoenen aan (moest een compliment geven)
+
+27-11-2024
+Ik heb een nieuw idee voor de layout van de pagina gemaakt, en ben begonnen met de uitwerken ervan. (zie img0575 in de repo).
+mijn code vraag was: hoe krijg ik de whitespace tussen de plaatjes vandaan? de oplossing heb ik nog niet maar een idee er voor staat in img0575
