@@ -182,3 +182,7 @@ Ole je hebt mooie schoenen aan (moest een compliment geven)
 27-11-2024
 Ik heb een nieuw idee voor de layout van de pagina gemaakt, en ben begonnen met de uitwerken ervan. (zie img0575 in de repo).
 mijn code vraag was: hoe krijg ik de whitespace tussen de plaatjes vandaan? de oplossing heb ik nog niet maar een idee er voor staat in img0575
+
+2-12-2024
+Ik vandaag geleerd over interactie door middel van feed forward en feedback.
+Aan de hand hiervan ben ik een schets aan het maken (wireframes) voor een idee met met hamburgermenu. Deze moet open klappen (en dicht) en wanneer deze open klapt moet het menu uiteraard te zien zijn.
