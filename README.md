@@ -186,3 +186,6 @@ mijn code vraag was: hoe krijg ik de whitespace tussen de plaatjes vandaan? de o
 2-12-2024
 Ik vandaag geleerd over interactie door middel van feed forward en feedback.
 Aan de hand hiervan ben ik een schets aan het maken (wireframes) voor een idee met met hamburgermenu. Deze moet open klappen (en dicht) en wanneer deze open klapt moet het menu uiteraard te zien zijn.
+
+9-12-2024
+de opdracht van vandaag gaat over ui events in JS. Om de opdracht af te maken en toe te voegen aan lerend vermogen moet ik de andere 9 knoppen nog maken en issues erbij zetten
