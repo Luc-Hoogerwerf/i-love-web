@@ -9,6 +9,9 @@ De instructie voor de I Love Web vind je in: [INSTRUCTIONS](https://github.com/f
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
 
+https://debosos.github.io/i-love-web/ mooi linkje of niet dan
+
+
 Vandaag (4-9-2024) geleerd over studievaardigheden zoals het bijhouden van IloveWeb.
 Ook begrijp ik nu beter hoe ik html elementen selecteer in css. Tot slot ben ik er achter gekomen dat ik MDN vaker moet gebruiken.
 
