@@ -1,33 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="style.css">
-		<!-- LOAD Tone.js from unpkg -->
-		<script src="https://unpkg.com/tone"></script>
-		<script>
-			function playNote() {
-				// create a synth
-				const synth = new Tone.Synth().toDestination();
-				// play a note from that synth
-				synth.triggerAttackRelease("C4", "8n");
-			}
-		</script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+  <!-- LOAD Tone.js from unpkg -->
+  <script src="https://unpkg.com/tone"></script>
+  <script>
+    function playNote(note) {
+      // create a synth
+      const synth = new Tone.Synth().toDestination();
+      // play the note
+      synth.triggerAttackRelease(note, "8n");
+    }
+  </script>
 </head>
+
 <body>
   <header>
     <nav>
-        <ul>
-            <li><a href="index.html">I Love Web!</a></li>
-            <li><a href="gitaar.html">Gitaarzooi</a></li>
-        </ul>
+      <ul>
+        <li><a href="index.html">I Love Web!</a></li>
+        <li><a href="gitaar.html">Gitaarzooi</a></li>
+      </ul>
     </nav>
-</header>
+  </header>
 
   <h1>Gitaarzooi</h1>
-  
+
 
   <!-- <label for="noot">Kies een noot:</label>
   <select id="noot">
@@ -44,8 +46,22 @@
       <option value="392">G</option>
       <option value="415">G#</option>
   </select> -->
-  
-	<body>
-		<button onclick="playNote()">Speel c4</button>
-	</body>
+
+  <div>
+    <button onclick="playNote('C4')">C4</button>
+    <button onclick="playNote('C#4')">C#4</button>
+    <button onclick="playNote('D4')">D4</button>
+    <button onclick="playNote('D#4')">D#4</button>
+    <button onclick="playNote('E4')">E4</button>
+    <button onclick="playNote('F4')">F4</button>
+    <button onclick="playNote('F#4')">F#4</button>
+    <button onclick="playNote('G4')">G4</button>
+    <button onclick="playNote('G#4')">G#4</button>
+    <button onclick="playNote('A4')">A4</button>
+    <button onclick="playNote('A#4')">A#4</button>
+    <button onclick="playNote('B4')">B4</button>
+  </div>
+
+</body>
+
 </html>
