@@ -6,16 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
   <link rel="stylesheet" href="style.css">
-  <!-- LOAD Tone.js from unpkg -->
-  <script src="https://unpkg.com/tone"></script>
-  <script>
-    function playNote(note) {
-      // create a synth
-      const synth = new Tone.Synth().toDestination();
-      // play the note
-      synth.triggerAttackRelease(note, "8n");
-    }
-  </script>
+  <script type="module" src="script.js"></script>
+  <script src="http://unpkg.com/tone"></script>
 </head>
 
 <body>
@@ -30,36 +22,21 @@
 
   <h1>Gitaarzooi</h1>
 
-
-  <!-- <label for="noot">Kies een noot:</label>
-  <select id="noot">
-      <option value="220">A</option>
-      <option value="233">A#</option>
-      <option value="247">B</option>
-      <option value="262">C</option>
-      <option value="277">C#</option>
-      <option value="294">D</option>
-      <option value="311">D#</option>
-      <option value="330">E</option>
-      <option value="349">F</option>
-      <option value="370">F#</option>
-      <option value="392">G</option>
-      <option value="415">G#</option>
-  </select> -->
-
   <div>
-    <button onclick="playNote('C4')">C4</button>
-    <button onclick="playNote('C#4')">C#4</button>
-    <button onclick="playNote('D4')">D4</button>
-    <button onclick="playNote('D#4')">D#4</button>
-    <button onclick="playNote('E4')">E4</button>
-    <button onclick="playNote('F4')">F4</button>
-    <button onclick="playNote('F#4')">F#4</button>
-    <button onclick="playNote('G4')">G4</button>
-    <button onclick="playNote('G#4')">G#4</button>
-    <button onclick="playNote('A4')">A4</button>
-    <button onclick="playNote('A#4')">A#4</button>
-    <button onclick="playNote('B4')">B4</button>
+    <button class="note" data-note="c4">C4</button>
+    <button class="note" data-note="c#4">C#4</button>
+    <button class="note" data-note="d4">D4</button>
+    <button class="note" data-note="d#4">D#4</button>
+    <button class="note" data-note="e4">E4</button>
+    <button class="note" data-note="f4">F4</button>
+    <button class="note" data-note="f#4">F#4</button>
+    <button class="note" data-note="g4">G4</button>
+    <button class="note" data-note="g#4">G#4</button>
+    <button class="note" data-note="a4">A4</button>
+    <button class="note" data-note="a#4">A#4</button>
+    <button class="note" data-note="b4">B4</button>
+    <button class="note" data-note="c5">C5</button>
+
   </div>
 
 </body>
