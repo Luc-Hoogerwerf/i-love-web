@@ -1,5 +1,27 @@
 {
   "dependencies": {
+    "express": "^5.1.0",
     "tone": "^15.0.4"
-  }
+  },
+  "name": "i-love-web",
+  "version": "1.0.0",
+  "description": "Mijn ILoveWeb",
+  "main": "server.js",
+  "type": "module",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeBosOs/i-love-web.git"
+  },
+  "author": "Luc Hoogerwerf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeBosOs/i-love-web/issues"
+  },
+  "homepage": "https://github.com/DeBosOs/i-love-web#readme"
 }
