@@ -56,7 +56,7 @@ animatie
 
 
 17-9-2024
-Transition opgefrist en geleerd dat 	filter: bestaat en wat het doet in 
+Transition opgefrist en geleerd dat filter: bestaat en wat het doet in 
 https://codepen.io/Luchoogerwerf/pen/RwzzGaj?editors=1100
 
 18-9-2024

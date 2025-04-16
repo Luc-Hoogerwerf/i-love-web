@@ -26,7 +26,7 @@ Voor de WCAG audit van woensdag moet ik nog de handmatige tests doen
 16-10-2024
 Multi culumn layout was van korte duur. PLaatjes los gezet in main met infinite scroll in JS. Witruimtes gaan weg door de plaatjes verticaal uit te lijnen ipv horizontaal.
 ik heb geleerd dat er meerdere manieren zijn om een link te gebuiken (shift, cntrl, cmmd, option enzov.)
-Ik heb geleer dat index++ gelijk is aan index = index + 1
+Ik heb geleer dat index++ gelijk is aan index = index + 1 en index += 1
 Ik snap nu wat <legend> en <summary> doen
 
 18-10-2024

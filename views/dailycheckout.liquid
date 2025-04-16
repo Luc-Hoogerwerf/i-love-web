@@ -1,0 +1,10 @@
+<p>Hier komen de daily checkouts</p>
+<p>dit wordt later mooier</p>
+{{ files | json }}
+
+<section>
+  <h2>Mijn artiekelen</h2>
+  {% for file in files %}
+    <a href="/dailycheckout/{{ file| slice: 0,-3  }}">{{ file|slice:0,-3 }}</a>
+  {% endfor %}
+</section>

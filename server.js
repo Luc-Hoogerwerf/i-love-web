@@ -1,9 +1,16 @@
+//content uitlezen
+import { readdir, readFile } from 'node:fs/promises'
+
+const files = await readdir('content')
+console.log(files)
+
 // Importeer het npm package Express (uit de door npm aangemaakte node_modules map)
 // Deze package is geïnstalleerd via `npm install`, en staat als 'dependency' in package.json
 import express from 'express'
 
 // Importeer de Liquid package (ook als dependency via npm geïnstalleerd)
 import { Liquid } from 'liquidjs';
+import { request } from 'node:http';
 
 // Maak een nieuwe Express applicatie aan, waarin we de server configureren
 const app = express()
@@ -34,10 +41,24 @@ app.listen(app.get('port'), function () {
   })
   
 
-  app.get('/', async function (request, response) {  
-    response.render('home.liquid')
-  })
+app.get('/', async function (request, response) {  
+  response.render('home.liquid', {files:files})
+})
 
-  app.get('/usictheory', async function (request, response) {
-    response.render('usictheory')
-  })
+app.get('/musictheory', async function (request, response) {
+  response.render('muziek.liquid')
+})
+
+app.get('/dailycheckout', async function (request, response) {
+  response.render('dailycheckout.liquid', {files:files})
+})
+
+app.get('/dailycheckout/:slug', async function(req, res) {
+  console.log(req.params.slug)
+  const fileContents = await readFile('content/' + req.params.slug + '.md', { encoding: 'utf8' })
+  res.render('artiekel.liquid')
+})
+
+app.get('/layout-shift', async function(req, res) {
+  res.render('layout-shift.liquid')
+})
